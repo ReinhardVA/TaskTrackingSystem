@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Assessments\Commands\Delete\" />
+    <Folder Include="Assessments\Commands\Update\" />
+    <Folder Include="Assessments\Queries\GetAssessmentsByUser\" />
+    <Folder Include="Assessments\Queries\GetAverageScoreOfUser\" />
+    <Folder Include="WorkItems\Commands\Delete\" />
+    <Folder Include="WorkItems\Commands\CompleteWorkItemCommand\" />
+    <Folder Include="WorkItems\Commands\Update\" />
+    <Folder Include="WorkItems\Queries\GetWorkItemsByUserId\" />
+    <Folder Include="Users\Commands\Delete\" />
+    <Folder Include="Users\Commands\Update\" />
+    <Folder Include="Users\Queries\GetUserById\" />
+    <Folder Include="Users\Queries\GelAllUsers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskTrackingSystem.Domain\TaskTrackingSystem.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
