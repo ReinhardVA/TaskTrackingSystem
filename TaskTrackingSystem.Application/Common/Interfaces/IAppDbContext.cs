@@ -8,5 +8,7 @@ namespace TaskTrackingSystem.Application.Common.Interfaces
         DbSet<User> Users { get; set; }
         DbSet<WorkItem> WorkItems { get; set; } // Tasks
         DbSet<Assessment> Assessments { get; set; }
+
+        Task<int> SaveChangesAsync(CancellationToken cancellationToken);
     }
 }

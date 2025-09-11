@@ -9,7 +9,7 @@ namespace TaskTrackingSystem.Domain.Entities
         public required string Email { get; set; }
         public required Role Role { get; set; }
 
-        public ICollection<Assessment> Assessments { get; set; } = new List<Assessment>();,
+        public ICollection<Assessment> Assessments { get; set; } = new List<Assessment>();
         public ICollection<WorkItem> WorkItems { get; set; } = new List<WorkItem>();
     }
 }

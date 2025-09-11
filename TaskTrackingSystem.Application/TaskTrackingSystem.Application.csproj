@@ -14,14 +14,13 @@
     <Folder Include="WorkItems\Commands\Delete\" />
     <Folder Include="WorkItems\Commands\CompleteWorkItemCommand\" />
     <Folder Include="WorkItems\Commands\Update\" />
-    <Folder Include="WorkItems\Queries\GetWorkItemsByUserId\" />
     <Folder Include="Users\Commands\Delete\" />
     <Folder Include="Users\Commands\Update\" />
-    <Folder Include="Users\Queries\GetUserById\" />
-    <Folder Include="Users\Queries\GelAllUsers\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="MediatR" Version="13.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.8" />
   </ItemGroup>
 
