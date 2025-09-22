@@ -11,11 +11,7 @@
     <Folder Include="Assessments\Commands\Update\" />
     <Folder Include="Assessments\Queries\GetAssessmentsByUser\" />
     <Folder Include="Assessments\Queries\GetAverageScoreOfUser\" />
-    <Folder Include="WorkItems\Commands\Delete\" />
     <Folder Include="WorkItems\Commands\CompleteWorkItemCommand\" />
-    <Folder Include="WorkItems\Commands\Update\" />
-    <Folder Include="Users\Commands\Delete\" />
-    <Folder Include="Users\Commands\Update\" />
   </ItemGroup>
 
   <ItemGroup>

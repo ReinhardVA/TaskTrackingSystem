@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TaskTrackingSystem.Application.WorkItems.Commands.Create;
+using TaskTrackingSystem.Application.WorkItems.Commands.Delete;
+using TaskTrackingSystem.Application.WorkItems.Commands.Update;
 using TaskTrackingSystem.Application.WorkItems.Queries.GetWorkItemByIdQuery;
 
 namespace TaskTrackingSystem.Controllers
@@ -12,7 +14,7 @@ namespace TaskTrackingSystem.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<WorkItemByIdVm>> GetById(Guid id)
         {
-            var result = await Mediator.Send(new GetWorkItemByIdQuery { Id = id});
+            var result = await Mediator.Send(new GetWorkItemByIdQuery { Id = id });
 
             return Ok(result);
         }
@@ -21,7 +23,20 @@ namespace TaskTrackingSystem.Controllers
         public async Task<IActionResult> Create([FromBody] CreateWorkItemCommand command)
         {
             var id = await Mediator.Send(command);
-            return CreatedAtAction(nameof(GetById), new {id}, id);
+            return CreatedAtAction(nameof(GetById), new { id }, id);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Update([FromBody] UpdateWorkItemCommand command)
+        {
+            await Mediator.Send(command);
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(Guid id)
+        {
+            await Mediator.Send(new DeleteWorkItemCommand { Id = id });
+            return NoContent();
         }
     }
 }

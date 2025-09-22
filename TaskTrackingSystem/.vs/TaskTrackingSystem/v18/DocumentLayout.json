@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\workitems\\commands\\update\\updateworkitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem\\controllers\\workitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|solutionrelative:controllers\\workitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4A588A-78AE-4F39-8AD3-BD60DAF8B9A8}|..\\TaskTrackingSystem.Domain\\TaskTrackingSystem.Domain.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.domain\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\workitems\\commands\\delete\\deleteworkitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
+              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:57:39.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateWorkItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Update\\UpdateWorkItemCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Update\\UpdateWorkItemCommand.cs",
+              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Update\\UpdateWorkItemCommand.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Update\\UpdateWorkItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:56:59.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:29:02.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkItemController.cs",
+              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\WorkItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkItemController.cs",
+              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\WorkItemController.cs",
+              "RelativeToolTip": "Controllers\\WorkItemController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:28:15.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteWorkItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Delete\\DeleteWorkItemCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Delete\\DeleteWorkItemCommand.cs",
+              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Delete\\DeleteWorkItemCommand.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Delete\\DeleteWorkItemCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:09:20.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

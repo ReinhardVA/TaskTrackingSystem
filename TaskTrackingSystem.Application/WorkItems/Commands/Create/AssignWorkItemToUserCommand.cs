@@ -1,10 +1,4 @@
 ﻿using MediatR;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TaskTrackingSystem.Application.Common.Exceptions;
 using TaskTrackingSystem.Application.Common.Interfaces;
 using TaskTrackingSystem.Domain.Enums;
@@ -26,9 +20,9 @@ namespace TaskTrackingSystem.Application.Tasks.Commands.Create
 
         public async Task<Unit> Handle(AssignWorkItemToUserCommand request, CancellationToken cancellationToken)
         {
-            var workItem = await _context.WorkItems.FindAsync( [request.WorkItemId] , cancellationToken);
+            var workItem = await _context.WorkItems.FindAsync([request.WorkItemId], cancellationToken);
 
-            if(workItem != null)
+            if (workItem != null)
             {
                 throw new NotFoundException(nameof(workItem), request.WorkItemId);
             }

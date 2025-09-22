@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TaskTrackingSystem.Application.Users.Commands.Create;
+using TaskTrackingSystem.Application.Users.Commands.Delete;
+using TaskTrackingSystem.Application.Users.Commands.Update;
 using TaskTrackingSystem.Application.Users.Queries.GelAllUsers;
 using TaskTrackingSystem.Application.Users.Queries.GetUserById;
 
@@ -34,5 +36,26 @@ namespace TaskTrackingSystem.Controllers
             return NoContent();
         }
 
+        [HttpPost]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesDefaultResponseType]
+        public async Task<IActionResult> Upsert(UpsertUserCommand command)
+        {
+            var id = await Mediator.Send(command);
+            return NoContent();
+        }
+
+
+        [HttpDelete("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesDefaultResponseType]
+        public async Task<IActionResult> Delete(Guid id)
+        {
+            await Mediator.Send(new DeleteUserCommand { Id = id });
+            return NoContent();
+        }
+        
     }
 }
