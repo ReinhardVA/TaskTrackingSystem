@@ -36,7 +36,7 @@ namespace TaskTrackingSystem.Controllers
             return NoContent();
         }
 
-        [HttpPost]
+        [HttpPut]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesDefaultResponseType]

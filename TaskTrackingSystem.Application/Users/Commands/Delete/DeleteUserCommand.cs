@@ -14,31 +14,28 @@ namespace TaskTrackingSystem.Application.Users.Commands.Delete
     public class DeleteUserCommandHandler : IRequestHandler<DeleteUserCommand>
     {
         private readonly IAppDbContext _context;
-        private readonly IUserManager _userManager;
-        public DeleteUserCommandHandler(IAppDbContext context, IUserManager userManager)
+        //private readonly IUserManager _userManager;
+        public DeleteUserCommandHandler(IAppDbContext context)
         {
             _context = context;
-            _userManager = userManager;
+            //_userManager = userManager;
         }
 
         public async Task Handle(DeleteUserCommand request, CancellationToken cancellationToken)
         {
             var entity = await _context.Users.FindAsync(request.Id);
 
-            if (entity == null)
+            if (entity is null)
             {
                 throw new NotFoundException(nameof(User), request.Id);
             }
 
-            if(entity.Id == request.Id)
-            {
-                throw new BadRequestException("Employee cannot delete himself");
-            }
-
-            if(entity.Id != null)
-            {
-                await _userManager.DeleteUserAsync(entity.Id);
-            }
+            //if(entity.Id == request.Id)
+            //{
+            //    throw new BadRequestException("Employee cannot delete himself");
+            //}
+           
+  
             _context.Users.Remove(entity);
 
             await _context.SaveChangesAsync(cancellationToken);

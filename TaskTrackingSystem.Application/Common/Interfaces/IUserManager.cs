@@ -2,6 +2,5 @@
 {
     public interface IUserManager
     {
-        Task DeleteUserAsync(Guid userId);
     }
 }

@@ -4,7 +4,7 @@
     {
         public Guid Id { get; set; }
         public Guid UserId { get; set; }
-        public User user { get; set; } = null!;
+        public User User { get; set; } = null!;
         public int Score { get; set; }
         public DateTime CreatedAt { get; set; }
     }

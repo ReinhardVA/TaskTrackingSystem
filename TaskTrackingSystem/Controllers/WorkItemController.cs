@@ -25,7 +25,7 @@ namespace TaskTrackingSystem.Controllers
             var id = await Mediator.Send(command);
             return CreatedAtAction(nameof(GetById), new { id }, id);
         }
-        [HttpPost]
+        [HttpPut]
         public async Task<IActionResult> Update([FromBody] UpdateWorkItemCommand command)
         {
             await Mediator.Send(command);
