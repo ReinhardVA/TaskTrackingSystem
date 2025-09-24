@@ -1,11 +1,13 @@
 ﻿using MediatR;
 using Microsoft.EntityFrameworkCore;
+using TaskTrackingSystem.Application.Common.Attributes;
 using TaskTrackingSystem.Application.Common.Interfaces;
 using TaskTrackingSystem.Domain.Entities;
 using TaskTrackingSystem.Domain.Enums;
 
 namespace TaskTrackingSystem.Application.WorkItems.Commands.CompleteWorkItemCommand
-{
+
+    [Authorize(Role.Admin)]
     public class CompleteWorkItemCommand : IRequest
     {
         public Guid WorkItemId { get; set; }

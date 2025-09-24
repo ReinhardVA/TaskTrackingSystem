@@ -1,29 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|c:\\users\\eren.kankilinc\\desktop\\proje\\tasktrackingsystem\\tasktrackingsystem\\controllers\\workitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|solutionrelative:controllers\\workitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\workitems\\commands\\create\\assignworkitemtousercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|c:\\users\\eren.kankilinc\\desktop\\proje\\tasktrackingsystem\\tasktrackingsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\workitems\\commands\\completeworkitemcommand\\completeworkitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF4A588A-78AE-4F39-8AD3-BD60DAF8B9A8}|..\\TaskTrackingSystem.Domain\\TaskTrackingSystem.Domain.csproj|c:\\users\\eren.kankilinc\\desktop\\proje\\tasktrackingsystem\\tasktrackingsystem.domain\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\workitems\\commands\\create\\createworkitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\proje\\tasktrackingsystem\\tasktrackingsystem.application\\workitems\\queries\\getworkitembyidquery\\workitembyidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\common\\behaivors\\authorizationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\proje\\tasktrackingsystem\\tasktrackingsystem.application\\workitems\\queries\\getworkitembyidquery\\getworkitembyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\common\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\proje\\tasktrackingsystem\\tasktrackingsystem.application\\users\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\common\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\proje\\tasktrackingsystem\\tasktrackingsystem.application\\workitems\\commands\\create\\assignworkitemtousercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA60720-1478-4BCE-9C40-170212E31428}|..\\TaskTrackingSystem.Infrastructure\\TaskTrackingSystem.Infrastructure.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,93 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetUserByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Users\\Queries\\GetUserById\\GetUserByIdQuery.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Users\\Queries\\GetUserById\\GetUserByIdQuery.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Users\\Queries\\GetUserById\\GetUserByIdQuery.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Users\\Queries\\GetUserById\\GetUserByIdQuery.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateWorkItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T12:01:36.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetWorkItemByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\GetWorkItemByIdQuery.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\GetWorkItemByIdQuery.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\GetWorkItemByIdQuery.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\GetWorkItemByIdQuery.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T10:54:28.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorkItemByIdVm.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\WorkItemByIdVm.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\WorkItemByIdVm.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\WorkItemByIdVm.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Queries\\GetWorkItemByIdQuery\\WorkItemByIdVm.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvw0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T10:57:02.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WorkItemController.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\WorkItemController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WorkItemController.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\WorkItemController.cs",
-              "RelativeToolTip": "Controllers\\WorkItemController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T11:23:29.982Z",
+              "WhenOpened": "2025-09-24T21:08:24.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAoAAAAIAAAAAAAAAA==",
+              "Title": "CompleteWorkItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T11:24:05.49Z",
+              "WhenOpened": "2025-09-24T21:07:50.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkItem.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Domain\\Entities\\WorkItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AssignWorkItemToUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T13:01:09.511Z",
+              "WhenOpened": "2025-09-24T21:07:49.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:07:31.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AssignWorkItemToUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\Proje\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAARAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T08:22:18.472Z",
+              "WhenOpened": "2025-09-24T19:58:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:49:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:48:58.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:48:34.768Z",
               "EditorCaption": ""
             }
           ]

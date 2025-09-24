@@ -1,8 +1,10 @@
-﻿namespace TaskTrackingSystem.Application.Common.Interfaces
+﻿using TaskTrackingSystem.Domain.Enums;
+
+namespace TaskTrackingSystem.Application.Common.Interfaces
 {
     public interface ICurrentUserService
     {
         string? UserId { get; }
-        string? Role { get; }
+        Role? Role { get; }
     }
 }

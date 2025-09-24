@@ -1,10 +1,12 @@
 ﻿using MediatR;
+using TaskTrackingSystem.Application.Common.Attributes;
 using TaskTrackingSystem.Application.Common.Exceptions;
 using TaskTrackingSystem.Application.Common.Interfaces;
 using TaskTrackingSystem.Domain.Enums;
 
 namespace TaskTrackingSystem.Application.Tasks.Commands.Create
 {
+    [Authorize(Role.Admin)]
     public class AssignWorkItemToUserCommand : IRequest<Unit>
     {
         public Guid WorkItemId { get; set; }

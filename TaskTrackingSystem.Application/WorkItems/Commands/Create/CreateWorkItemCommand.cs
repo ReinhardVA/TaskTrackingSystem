@@ -1,14 +1,12 @@
 ﻿using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using TaskTrackingSystem.Application.Common.Attributes;
 using TaskTrackingSystem.Application.Common.Interfaces;
 using TaskTrackingSystem.Domain.Entities;
+using TaskTrackingSystem.Domain.Enums;
 
 namespace TaskTrackingSystem.Application.WorkItems.Commands.Create
 {
+    [Authorize(Role.Admin)]
     public class CreateWorkItemCommand : IRequest<Guid>
     {
         public string Title { get; set; }
