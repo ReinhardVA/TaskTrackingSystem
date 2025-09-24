@@ -22,6 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\TaskTrackingSystem.Application\TaskTrackingSystem.Application.csproj" />
     <ProjectReference Include="..\TaskTrackingSystem.Domain\TaskTrackingSystem.Domain.csproj" />
+    <ProjectReference Include="..\TaskTrackingSystem.Infrastructure\TaskTrackingSystem.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

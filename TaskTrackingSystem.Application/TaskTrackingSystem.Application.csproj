@@ -11,11 +11,12 @@
     <Folder Include="Assessments\Commands\Update\" />
     <Folder Include="Assessments\Queries\GetAssessmentsByUser\" />
     <Folder Include="Assessments\Queries\GetAverageScoreOfUser\" />
-    <Folder Include="WorkItems\Commands\CompleteWorkItemCommand\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.0.0" />
     <PackageReference Include="MediatR" Version="13.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.8" />
   </ItemGroup>

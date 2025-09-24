@@ -22,13 +22,14 @@ namespace TaskTrackingSystem.Application.Tasks.Commands.Create
         {
             var workItem = await _context.WorkItems.FindAsync([request.WorkItemId], cancellationToken);
 
-            if (workItem != null)
+            if (workItem == null)
             {
                 throw new NotFoundException(nameof(workItem), request.WorkItemId);
             }
 
             workItem.AssignedUserId = request.AssignedUserId;
             workItem.Status = Status.Pending;
+            workItem.User = _context.Users.Find(request.AssignedUserId);
 
             await _context.SaveChangesAsync(cancellationToken);
 

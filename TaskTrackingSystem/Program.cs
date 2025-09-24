@@ -1,5 +1,6 @@
 using System.Reflection;
 using System.Text.Json.Serialization;
+using TaskTrackingSystem.Application;
 using TaskTrackingSystem.Application.Common.Mapping;
 using TaskTrackingSystem.Application.Users.Commands.Create;
 using TaskTrackingSystem.Persistence;
@@ -19,6 +20,7 @@ namespace TaskTrackingSystem
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddApplication();
             builder.Services.AddPersistence(builder.Configuration);
 
             builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);

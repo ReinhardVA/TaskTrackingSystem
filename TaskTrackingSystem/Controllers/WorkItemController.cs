@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TaskTrackingSystem.Application.Tasks.Commands.Create;
+using TaskTrackingSystem.Application.WorkItems.Commands.CompleteWorkItemCommand;
 using TaskTrackingSystem.Application.WorkItems.Commands.Create;
 using TaskTrackingSystem.Application.WorkItems.Commands.Delete;
 using TaskTrackingSystem.Application.WorkItems.Commands.Update;
@@ -25,10 +27,25 @@ namespace TaskTrackingSystem.Controllers
             var id = await Mediator.Send(command);
             return CreatedAtAction(nameof(GetById), new { id }, id);
         }
+        
         [HttpPut]
         public async Task<IActionResult> Update([FromBody] UpdateWorkItemCommand command)
         {
             await Mediator.Send(command);
+            return NoContent();
+        }
+
+        [HttpPost("{id}/complete")]
+        public async Task<IActionResult> Complete(Guid id)
+        {
+            await Mediator.Send(new CompleteWorkItemCommand { WorkItemId = id });
+            return NoContent();
+        }
+
+        [HttpPut("{workItemId}/assign")]
+        public async Task<IActionResult> AssignWorkItemToUser(Guid workItemId, [FromBody] Guid assignedUserId)
+        {
+            await Mediator.Send(new AssignWorkItemToUserCommand { WorkItemId = workItemId, AssignedUserId = assignedUserId });
             return NoContent();
         }
 
