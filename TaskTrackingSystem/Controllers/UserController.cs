@@ -2,7 +2,7 @@
 using TaskTrackingSystem.Application.Users.Commands.Create;
 using TaskTrackingSystem.Application.Users.Commands.Delete;
 using TaskTrackingSystem.Application.Users.Commands.Update;
-using TaskTrackingSystem.Application.Users.Queries.GelAllUsers;
+using TaskTrackingSystem.Application.Users.Queries.GetAllUsers;
 using TaskTrackingSystem.Application.Users.Queries.GetUserById;
 
 namespace TaskTrackingSystem.Controllers

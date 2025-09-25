@@ -5,7 +5,7 @@ using TaskTrackingSystem.Application.Common.Interfaces;
 using TaskTrackingSystem.Domain.Entities;
 using TaskTrackingSystem.Domain.Enums;
 
-namespace TaskTrackingSystem.Application.WorkItems.Commands.CompleteWorkItemCommand
+namespace TaskTrackingSystem.Application.WorkItems.Commands.CompleteWorkItemCommand { 
 
     [Authorize(Role.Admin)]
     public class CompleteWorkItemCommand : IRequest

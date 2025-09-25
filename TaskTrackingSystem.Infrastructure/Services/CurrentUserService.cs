@@ -1,4 +1,5 @@
 ﻿using TaskTrackingSystem.Application.Common.Interfaces;
+using TaskTrackingSystem.Domain.Enums;
 
 namespace TaskTrackingSystem.Infrastructure.Services
 {
@@ -6,6 +7,6 @@ namespace TaskTrackingSystem.Infrastructure.Services
     {
         public string? UserId => "test-user";
 
-        public string? Role => "Admin";
+        public Role? Role => Domain.Enums.Role.Member;
     }
 }

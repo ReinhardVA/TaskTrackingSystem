@@ -1,4 +1,4 @@
-﻿namespace TaskTrackingSystem.Application.Users.Queries.GelAllUsers
+﻿namespace TaskTrackingSystem.Application.Users.Queries.GetAllUsers
 {
     public class UserListVm
     {

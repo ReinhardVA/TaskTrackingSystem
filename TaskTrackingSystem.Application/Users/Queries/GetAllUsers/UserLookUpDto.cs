@@ -3,7 +3,7 @@ using TaskTrackingSystem.Application.Common.Mapping;
 using TaskTrackingSystem.Domain.Entities;
 using TaskTrackingSystem.Domain.Enums;
 
-namespace TaskTrackingSystem.Application.Users.Queries.GelAllUsers
+namespace TaskTrackingSystem.Application.Users.Queries.GetAllUsers
 {
     public class UserLookUpDto : IMapFrom<User>
     {

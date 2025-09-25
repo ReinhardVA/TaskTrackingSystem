@@ -46,6 +46,7 @@ namespace TaskTrackingSystem
 
             app.UseAuthorization();
 
+            app.UseMiddleware<ApiExceptionMiddleware>();
 
             app.MapControllers();
 

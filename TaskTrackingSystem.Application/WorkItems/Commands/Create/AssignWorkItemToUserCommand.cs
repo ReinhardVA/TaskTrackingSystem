@@ -4,7 +4,7 @@ using TaskTrackingSystem.Application.Common.Exceptions;
 using TaskTrackingSystem.Application.Common.Interfaces;
 using TaskTrackingSystem.Domain.Enums;
 
-namespace TaskTrackingSystem.Application.Tasks.Commands.Create
+namespace TaskTrackingSystem.Application.WorkItems.Commands.Create
 {
     [Authorize(Role.Admin)]
     public class AssignWorkItemToUserCommand : IRequest<Unit>

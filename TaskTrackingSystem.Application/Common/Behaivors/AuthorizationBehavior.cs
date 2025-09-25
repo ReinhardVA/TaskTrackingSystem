@@ -1,6 +1,7 @@
 ﻿
 using MediatR;
 using TaskTrackingSystem.Application.Common.Attributes;
+using TaskTrackingSystem.Application.Common.Exceptions;
 using TaskTrackingSystem.Application.Common.Interfaces;
 
 namespace TaskTrackingSystem.Application.Common.Behaivors
@@ -23,14 +24,14 @@ namespace TaskTrackingSystem.Application.Common.Behaivors
             {
                 if(_currentUserService.Role is null)
                 {
-                    throw new UnauthorizedAccessException("User is not authorized");
+                    throw new ForbiddenAccessException("User is not authorized");
                 }
                 
                 foreach(var attribute in authorizeAttributes)
                 {
                     if(_currentUserService.Role != attribute.Role)
                     {
-                       throw new UnauthorizedAccessException($"Role `{attribute.Role}` required");
+                       throw new ForbiddenAccessException($"Role `{attribute.Role}` required");
                     }
                 }
             }

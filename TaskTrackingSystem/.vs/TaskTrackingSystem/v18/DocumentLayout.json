@@ -3,29 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\common\\behaivors\\authorizationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7579686-E645-4A56-86CB-443D3B160C5E}|..\\TaskTrackingSystem.Persistence\\TaskTrackingSystem.Persistence.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FA60720-1478-4BCE-9C40-170212E31428}|..\\TaskTrackingSystem.Infrastructure\\TaskTrackingSystem.Infrastructure.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\common\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\common\\behaivors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\workitems\\commands\\create\\assignworkitemtousercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren.kankilinc\\desktop\\tasktrackingsystem\\tasktrackingsystem.application\\workitems\\commands\\completeworkitemcommand\\completeworkitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,105 +30,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthorizationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Title": "CompleteWorkItemCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommandValidator.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommandValidator.cs",
+              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommandValidator.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommandValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T14:32:43.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T14:32:10.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T14:31:29.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CurrentUserService.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T14:24:08.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthorizeAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T14:13:11.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:24:19.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Common\\Behaivors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\Common\\Behaivors\\ValidationBehavior.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:09:47.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssignWorkItemToUserCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommandValidator.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommandValidator.cs",
-              "ToolTip": "C:\\Users\\eren.kankilinc\\Desktop\\TaskTrackingSystem\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommandValidator.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:10:10.697Z",
+              "WhenOpened": "2025-09-25T13:06:58.692Z",
               "EditorCaption": ""
             }
           ]
