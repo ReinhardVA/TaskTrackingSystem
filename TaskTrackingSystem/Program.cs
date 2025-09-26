@@ -22,7 +22,7 @@ namespace TaskTrackingSystem
 
             builder.Services.AddApplication();
             builder.Services.AddPersistence(builder.Configuration);
-
+            builder.Logging.AddConsole();
             builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
 
             builder.Services.AddMediatR(
