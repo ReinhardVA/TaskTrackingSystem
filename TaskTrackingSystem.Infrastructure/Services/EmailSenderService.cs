@@ -1,4 +1,5 @@
-﻿using System.Net;
+﻿using Microsoft.Extensions.Configuration;
+using System.Net;
 using System.Net.Mail;
 using TaskTrackingSystem.Application.Common.Interfaces;
 
@@ -6,22 +7,28 @@ namespace TaskTrackingSystem.Infrastructure.Services
 {
     public class EmailSenderService : IEmailSender
     {
-        private readonly SmtpClient _smtpClient;
+        private readonly IConfiguration _configuration;
 
-        public EmailSenderService()
+        public EmailSenderService(IConfiguration configuration)
         {
-            _smtpClient = new SmtpClient("smtp.gmail.com") // SMTP sunucusu
-            {
-                Port = 587,
-                Credentials = new NetworkCredential("username", "password"),
-                EnableSsl = true,
-            };
+            _configuration = configuration;
         }
 
         public async Task SendEmailAsync(string to, string subject, string body)
         {
-            var mail = new MailMessage("gmailaddress", to, subject, body);
-            await _smtpClient.SendMailAsync(mail);
+            var smtpHost = _configuration["Smtp:Host"];
+            var smtpPort = int.Parse(_configuration["Smtp:Port"]);
+            var smtpUser = _configuration["Smtp:User"];
+            var smtpPass = _configuration["Smtp:Pass"];
+
+            using var client = new SmtpClient(smtpHost, smtpPort)
+            {
+                Credentials = new NetworkCredential(smtpUser, smtpPass),
+                EnableSsl = true
+            };
+
+            var mailMessage = new MailMessage(smtpUser, to, subject, body);
+            await client.SendMailAsync(mailMessage); 
         }
     }
 }

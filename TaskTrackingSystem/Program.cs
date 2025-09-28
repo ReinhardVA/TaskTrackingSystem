@@ -3,6 +3,7 @@ using System.Text.Json.Serialization;
 using TaskTrackingSystem.Application;
 using TaskTrackingSystem.Application.Common.Mapping;
 using TaskTrackingSystem.Application.Users.Commands.Create;
+using TaskTrackingSystem.Infrastructure;
 using TaskTrackingSystem.Persistence;
 
 namespace TaskTrackingSystem
@@ -22,9 +23,9 @@ namespace TaskTrackingSystem
 
             builder.Services.AddApplication();
             builder.Services.AddPersistence(builder.Configuration);
+            builder.Services.AddInfrastructure(builder.Configuration);
             builder.Logging.AddConsole();
             builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
-
             builder.Services.AddMediatR(
                 cfg => cfg.RegisterServicesFromAssembly(typeof(CreateUserCommand).Assembly));
 

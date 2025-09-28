@@ -3,28 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\workitems\\commands\\create\\assignworkitemtousercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FA60720-1478-4BCE-9C40-170212E31428}|..\\TaskTrackingSystem.Infrastructure\\TaskTrackingSystem.Infrastructure.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.infrastructure\\backgroundjobs\\duedatecheckerbackgroundjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\workitems\\commands\\completeworkitemcommand\\completeworkitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93445DA9-B4E0-4302-A407-05DCA9E3ED04}|TaskTrackingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\workitems\\commands\\create\\createworkitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\common\\behaivors\\authorizationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\common\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\common\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FA60720-1478-4BCE-9C40-170212E31428}|..\\TaskTrackingSystem.Infrastructure\\TaskTrackingSystem.Infrastructure.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.infrastructure\\services\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FA60720-1478-4BCE-9C40-170212E31428}|..\\TaskTrackingSystem.Infrastructure\\TaskTrackingSystem.Infrastructure.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FA60720-1478-4BCE-9C40-170212E31428}|..\\TaskTrackingSystem.Infrastructure\\TaskTrackingSystem.Infrastructure.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7579686-E645-4A56-86CB-443D3B160C5E}|..\\TaskTrackingSystem.Persistence\\TaskTrackingSystem.Persistence.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9053D6-7518-440F-A68F-E13DBA4F57DB}|..\\TaskTrackingSystem.Application\\TaskTrackingSystem.Application.csproj|c:\\users\\eren\\onedrive\\masa\u00FCst\u00FC\\bilgisayar m\u00FChendisli\u011Fi\\okul\\staj\\staj proje task tracking\\tasktrackingsystem.application\\common\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,12 +32,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
@@ -50,107 +44,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateWorkItemCommand.cs",
-              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
-              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\CreateWorkItemCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Persistence\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T21:08:24.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CompleteWorkItemCommand.cs",
-              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
-              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\CompleteWorkItemCommand\\CompleteWorkItemCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T21:07:50.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AssignWorkItemToUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\WorkItems\\Commands\\Create\\AssignWorkItemToUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T21:07:49.671Z",
+              "WhenOpened": "2025-09-28T14:15:19.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthorizationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Behaivors\\AuthorizationBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T21:07:31.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\DependencyInjection.cs",
               "RelativeToolTip": "..\\TaskTrackingSystem.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:58:00.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CurrentUserService.cs",
-              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
-              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Infrastructure\\Services\\CurrentUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:49:03.718Z",
+              "WhenOpened": "2025-09-28T14:14:40.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICurrentUserService.cs",
-              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
-              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Interfaces\\ICurrentUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:48:58.686Z",
+              "WhenOpened": "2025-09-28T14:10:56.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthorizeAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAPAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:48:34.768Z",
+              "WhenOpened": "2025-09-28T11:39:36.648Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DueDateCheckerBackgroundJob.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\BackgroundJobs\\DueDateCheckerBackgroundJob.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Infrastructure\\BackgroundJobs\\DueDateCheckerBackgroundJob.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\BackgroundJobs\\DueDateCheckerBackgroundJob.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Infrastructure\\BackgroundJobs\\DueDateCheckerBackgroundJob.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:02:18.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSenderService.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\Services\\EmailSenderService.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Infrastructure\\Services\\EmailSenderService.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Infrastructure\\Services\\EmailSenderService.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Infrastructure\\Services\\EmailSenderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:02:01.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "..\\TaskTrackingSystem.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\EREN\\OneDrive\\Masa\u00FCst\u00FC\\Bilgisayar M\u00FChendisli\u011Fi\\Okul\\staj\\Staj Proje Task Tracking\\TaskTrackingSystem.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "..\\TaskTrackingSystem.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:01:39.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

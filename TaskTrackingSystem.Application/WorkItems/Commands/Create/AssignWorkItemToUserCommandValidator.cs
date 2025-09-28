@@ -22,15 +22,15 @@ namespace TaskTrackingSystem.Application.WorkItems.Commands.Create
                  .MustAsync(UserExists).WithMessage("Assigned user does not exist.");
         }
 
-        private async Task<bool> UserExists(Guid userId, CancellationToken token)
+        private Task<bool> UserExists(Guid userId, CancellationToken token)
         {
-            return await _context.Users.AnyAsync(u => u.Id == userId, token);
+            return _context.Users.AnyAsync(u => u.Id == userId, token);
 
         }
 
-        private async Task<bool> WorkItemExists(Guid userId, CancellationToken token)
+        private Task<bool> WorkItemExists(Guid workItemId, CancellationToken token)
         {
-            return await _context.Users.AnyAsync(u => u.Id == userId, token);
+            return _context.WorkItems.AnyAsync(u => u.Id == workItemId, token);
 
         }
     }

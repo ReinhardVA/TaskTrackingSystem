@@ -7,6 +7,6 @@ namespace TaskTrackingSystem.Infrastructure.Services
     {
         public string? UserId => "test-user";
 
-        public Role? Role => Domain.Enums.Role.Member;
+        public Role? Role => Domain.Enums.Role.Admin;
     }
 }
